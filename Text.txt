@@ -2,3 +2,6 @@ Hello Git...
 
 git status 
 git init
+
+git status
+git commit -m "data"
